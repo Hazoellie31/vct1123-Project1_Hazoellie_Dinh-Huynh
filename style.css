@@ -1,0 +1,62 @@
+ul li { 
+    display: inline-flex; 
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    background-color: lightskyblue;
+} 
+.content-wrap {
+    max-width: 800px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 60px 0;
+  }
+h1{
+    font-family: 'Caveat', cursive;
+    font-weight: 500;
+    margin: 0;
+    font-size: 100px;
+    line-height: 1;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+body {
+    background-color: lightskyblue;
+    margin:0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace, cursive;
+    font-size: 20px;
+    line-height: 1.5;
+  }
+img{
+    width: 400px;
+
+}
+header {
+    text-decoration-color: none;
+    color: palevioletred;
+}
+p {
+    text-align: center;
+    text-decoration-color: none;
+    color: palevioletred;
+}
+.center{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      
+}
+h3{
+    text-align: center;
+}
+.welcomepage{
+     color: lightskyblue;
+}
+footer{
+    text-align: center;
+}
