@@ -1,0 +1,44 @@
+ul li { 
+    display: inline-flex;
+   
+}
+.container {
+    width: 100vw;
+    height: 100vh;
+    background-color:white;
+} 
+
+h1{
+    text-align: center;
+}
+h2{ 
+    text-align: center;
+}
+.column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+  }
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+img{
+    width: 300px;
+}
+.image{
+    opacity: .7;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+p{
+    text-align: center;
+    font-size: large;
+    font-style: normal;
+}
